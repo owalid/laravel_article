@@ -18,6 +18,12 @@ php artisan db:seed
 
 # If you get an error about an encryption key
 php artisan key:generate
+
+# Run
+
+php artisan serve
+npm run watch
+
 ```
 
 ## Endpoints
@@ -50,17 +56,6 @@ article_id/title/body
 
 
 ```
-
-## App Info
-
-### Author
-
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
-
-### Version
-
-1.0.0
 
 ### License
 
