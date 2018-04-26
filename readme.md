@@ -20,9 +20,9 @@ php artisan db:seed
 php artisan key:generate
 
 # Run
-
-php artisan serve
 npm run watch
+php artisan serve
+
 
 ```
 
